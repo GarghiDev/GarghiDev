@@ -1,4 +1,4 @@
-# Hi, I'm Garghi Seenivas 👋
+# Hi, I'm Garghi Seenevas 👋
 
 I am an Engineer with a Master's from DTU, specializing in **AI Engineering** and **Signal Processing**. I build intelligent systems that bridge the gap between complex data and functional applications.
 
