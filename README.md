@@ -1,21 +1,42 @@
 # Hi, I'm Garghi Seenevas 👋
 
-I am an Engineer with a Master's from DTU, specializing in **AI Engineering** and **Signal Processing**. I build intelligent systems that bridge the gap between complex data and functional applications.
-
-### 🛠️ Technical Toolkit
-* [cite_start]**AI & Generative Systems:** RAG Architecture, Agentic AI, LangChain, LLM Integration, Prompt Engineering[cite: 6, 21, 40].
-* [cite_start]**Development & Deployment:** Python (Flask, Gradio), Git, SQL[cite: 21, 39].
-* [cite_start]**Engineering & Research:** Signal Processing (Acoustic/EEG), Data Pipeline Development, MATLAB, Automated Testing[cite: 12, 13, 39, 41].
-
-### 🔭 Current Focus
-* [cite_start]**IBM RAG & Agentic AI Specialization:** Actively building and deploying GenAI web applications and RAG systems[cite: 6, 18, 21].
-* [cite_start]**Signal Processing to AI:** Porting my neurophysiological data processing research into Python-based AI workflows[cite: 13, 48].
-
-### 🎓 Education & Certifications
-* **IBM RAG & Agentic AI Professional Certificate** | [cite_start]In Progress[cite: 18, 20].
-* **M.Sc. Engineering Acoustics** | [cite_start]Technical University of Denmark (DTU)[cite: 9, 10].
-* **B.Eng. Mechanical Engineering** | [cite_start]University of Hartford[cite: 15].
+Engineer with a Master's in Engineering Acoustics from DTU, now building AI-powered applications. My background in signal processing, data pipelines, and structured experimentation gives me a unique angle on AI engineering — I don't just use the tools, I understand the signals behind them.
 
 ---
-### 📫 Let's Connect:
-[cite_start][LinkedIn](https://linkedin.com/in/garghi) | seegarghi@gmail.com [cite: 2]
+
+### 🚀 What I'm Building
+
+- **[Ask My Thesis](link)** — A RAG chatbot that answers questions about neurophysiological responses to distractors, built with LangChain, ChromaDB & Groq *(coming soon)*
+- More projects on the way — posture monitoring with AI agents, acoustic analysis tools, and more
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & GenAI:** LangChain · RAG Architecture · Prompt Engineering · LLM Integration · Agentic AI
+
+**Languages & Tools:** Python · MATLAB · Flask · Gradio · Git · SQL · ChromaDB
+
+**Engineering:** Signal Processing (Acoustic/EEG/Pupillometry) · Data Pipelines · Test Automation
+
+---
+
+### 🔭 Currently
+
+- Completing the **IBM RAG & Agentic AI Professional Certificate** (1/9 courses done)
+- Building end-to-end GenAI applications and deploying them here
+- Pivoting from acoustics to AI engineering — documenting the journey on [LinkedIn](https://www.linkedin.com/in/garghi/)
+
+---
+
+### 🎓 Education
+
+🎓 **M.Sc. Engineering Acoustics** — Technical University of Denmark (DTU)
+
+🎓 **B.Eng. Mechanical Engineering** — University of Hartford
+
+---
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/garghi/) · seegarghi@gmail.com
