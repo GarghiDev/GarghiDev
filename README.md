@@ -13,9 +13,9 @@ Engineer with a Master's in Engineering Acoustics from DTU, now building AI-powe
 
 ### 🛠️ Tech Stack
 
-**AI & GenAI:** LangChain · RAG Architecture · Prompt Engineering · LLM Integration · Agentic AI
+**AI & GenAI:** LangChain · LangGraph · Advanced RAG Architecture · Prompt Engineering · LLM Integration · Agentic AI
 
-**Languages & Tools:** Python · MATLAB · Flask · Gradio · Git · SQL · ChromaDB
+**Languages & Tools:** Python · MATLAB · Flask · Gradio · Git · SQL · ChromaDB · FAISS
 
 **Engineering:** Signal Processing (Acoustic/EEG/Pupillometry) · Data Pipelines · Test Automation
 
@@ -23,7 +23,7 @@ Engineer with a Master's in Engineering Acoustics from DTU, now building AI-powe
 
 ### 🔭 Currently
 
-- Completing the **IBM RAG & Agentic AI Professional Certificate** (1/9 courses done)
+- Completing the **IBM RAG & Agentic AI Professional Certificate** (7/9 courses done)
 - Building end-to-end GenAI applications and deploying them here
 - Pivoting from acoustics to AI engineering — documenting the journey on [LinkedIn](https://www.linkedin.com/in/garghi/)
 
