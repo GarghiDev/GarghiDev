@@ -15,6 +15,7 @@ A two-agent system that answers questions about the privacy policies of major pl
 
 - **Research Agent** retrieves answers using **hybrid BM25 + FAISS semantic search** and cites every claim
 - **Verification Agent** cross-checks all answers against source documents; triggers a self-correction loop if citations don't hold
+- **Live demo:** [https://fineprint-nhxevvabzjbcnfwz2wifce.streamlit.app/]
 - Stack: `LangGraph` · `Google Gemini 1.5 Pro` · `FAISS` · `BM25` · `HuggingFace Transformers` · `Docling` · `Streamlit`
 
 ---
