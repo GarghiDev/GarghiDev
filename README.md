@@ -42,7 +42,6 @@ Other       Git · Docling · Tavily API
 
 ---
 
-## 📚 Currently Building
 
 **IBM RAG & Agentic AI Professional Certificate** — 7 of 9 courses complete
 
@@ -72,4 +71,4 @@ Now I'm applying that same precision to AI engineering.
 
 - **LinkedIn:** [linkedin.com/in/garghi](https://www.linkedin.com/in/garghi/)
 - **Email:** seegarghi@gmail.com
-- **Location:** Copenhagen, Denmark 🇩🇰 — fully authorised to work, no sponsorship needed
+- **Location:** Copenhagen, Denmark 🇩🇰 
