@@ -55,8 +55,8 @@ Other       Git · Docling · Tavily API
 | Multimodal GenAI | ✅ |
 | Fundamentals of AI Agents | ✅ |
 | Agentic AI with LangGraph | ✅ |
-| Multi-Agent Systems (CrewAI/AutoGen) | 🔄 |
-| MCP | 🔄 |
+| Multi-Agent Systems (CrewAI/AutoGen) | ✅ |
+| MCP | ✅ |
 
 ---
 
