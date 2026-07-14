@@ -1,12 +1,22 @@
-# Hi, I'm Garghi 👋
+# Hi, I'm Garghi
 
-**MSc Engineering Acoustics (DTU) → AI Engineer**
+**AI Engineer** — I build multi-agent systems, RAG pipelines, and LLM-powered tools that solve real business problems.
 
-I build agentic AI applications — multi-agent systems, RAG pipelines, and LLM-powered tools that solve real problems. Currently completing the IBM RAG & Agentic AI Professional Certificate (7/9 courses) while shipping projects that demonstrate what I'm learning.
+Currently freelancing as an AI consultant in Copenhagen, building and deploying production AI tools for industrial clients. My most recent delivery — an automated document pipeline — replaced a 12-hour manual process and is in daily production use.
 
----
-
+MSc Engineering Acoustics, DTU. IBM RAG & Agentic AI Professional Certificate (9/9 courses completed).
 ## 🚀 Projects
+
+### Microfit Agent-1 — Production Document Automation Pipeline
+> *Deployed and in daily use by a manufacturing client*
+
+Multi-agent system that automated a 12-hour PPAP document workflow. Ingests raw manufacturing documents, retrieves against a compliance knowledge base, and generates validated output end-to-end.
+
+- **Multi-agent orchestration** with LangGraph: ingestion → RAG retrieval → structured generation → validation
+- **Hybrid retrieval**: BM25 + FAISS semantic search over compliance knowledge base
+- **Result**: 100+ hours saved, zero manual transcription errors, in production daily
+- Stack: `LangGraph` · `Google Gemini 1.5 Pro` · `ChromaDB` · `BM25` · `HuggingFace Transformers` · `Docling` · `Streamlit`
+- *Client project — code not public. Architecture and approach available on request.*
 
 ### [FinePrint](https://github.com/GarghiDev/fineprint) — Multi-Agent Privacy Policy Analyzer
 > *"What data does TikTok actually collect on you?"*
@@ -43,28 +53,11 @@ Other       Git · Docling · Tavily API
 
 ---
 
+## Background
 
-**IBM RAG & Agentic AI Professional Certificate** — 7 of 9 courses complete
+MSc in Engineering Acoustics from DTU — a foundation in systems thinking, signal processing, and quantitative analysis. I spent 7 months at Eriksholm Research Centre (Demant) running multi-sensor experiments and building data pipelines in Python and MATLAB, before moving into AI engineering.
 
-| Course | Status |
-|--------|--------|
-| Generative AI Applications | ✅ |
-| Build RAG Applications | ✅ |
-| Vector Databases for RAG | ✅ |
-| Advanced RAG | ✅ |
-| Multimodal GenAI | ✅ |
-| Fundamentals of AI Agents | ✅ |
-| Agentic AI with LangGraph | ✅ |
-| Multi-Agent Systems (CrewAI/AutoGen) | ✅ |
-| MCP | ✅ |
-
----
-
-## 🎓 Background
-
-I have an MSc in Engineering Acoustics from DTU — which means I think in systems, signals, and physics before I think in code. That background turns out to be surprisingly useful when building speech AI, structured data pipelines, and anything where the *quality* of a retrieval matters, not just whether it retrieves something.
-
-Now I'm applying that same precision to AI engineering.
+That background shapes how I build: I think about data quality, evaluation, and reliability before I think about model choice.
 
 ---
 
